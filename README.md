@@ -6,5 +6,7 @@
 ## backend - https://github.com/rajatsah95/flexTripBackend
 ## frontend - https://github.com/rajatsah95/flexTripFrontend
 
-
+# login details
+## email - a@gmail.com
+## password - 123
 
