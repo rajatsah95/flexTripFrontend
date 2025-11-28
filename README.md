@@ -10,3 +10,11 @@
 ## email - a@gmail.com
 ## password - 123
 
+# landingPage
+![image](https://github.com/rajatsah95/flexTripFrontend/blob/main/src/assets/images/landingPage.jpg)
+
+# loginPage
+![image](https://github.com/rajatsah95/flexTripFrontend/blob/main/src/assets/images/LoginPage.jpg)
+
+# dashboardPage
+![image](https://github.com/rajatsah95/flexTripFrontend/blob/main/src/assets/images/dashboardPage.jpg)
