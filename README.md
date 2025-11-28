@@ -1,30 +1,12 @@
-# Install vite in the react app
+# deployed link
+## backend - https://flextripbackend.onrender.com/
+## frontend - https://sparkling-panda-8894e1.netlify.app/
 
-<br/>
+# github link
+## backend - https://github.com/rajatsah95/flexTripBackend
+## frontend - https://github.com/rajatsah95/flexTripFrontend
 
-## Step 1
+# login details
+## email - a@gmail.com
+## password - 123
 
-```
-$ npm create vite@latest
-```
-
-> after this you select write your `project name ` and after send project name you select which `framework` you want to use and after this you select `javascript`
-
-## Step 2
-
-```
-$ npx degit user/project project-name
-cd project-name
-```
-
-## Step 3
-
-```
-$ npm install
-```
-
-## Step 4
-
-```
-$ npm run dev
-```
